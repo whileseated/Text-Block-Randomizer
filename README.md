@@ -29,4 +29,4 @@ Create a simple page that automatically displays a randomly selected text block 
 - This project does not require a server setup. It can run locally in your web browser.
 - Ensure that all files are in the same directory for the scripts to work correctly.
 - You can customize the text in `raw_text.txt` to change the displayed content.
-- There's probably a simpler step for running the python script and generating `script.js` in its entirety, saving a step, but for now, you need to paste the resulting array in `output_for_script.js` into `script.js`.
+- There's probably a simpler step for running the python script and generating `script.js` in its entirety, saving a step, but for now, you need to copy/paste the resulting array from `output_for_script.js` into `script.js`.
