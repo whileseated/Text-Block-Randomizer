@@ -1,7 +1,5 @@
 # Random Text Display Web Page
 
-## Project Overview
-
 Create a simple page that automatically displays a randomly selected text block upon each reload or refresh. 
 
 ## File Structure
