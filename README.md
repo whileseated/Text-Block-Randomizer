@@ -21,14 +21,10 @@ Create a simple page that automatically displays a randomly selected text block 
 2. **Integrate JavaScript Files**:
     - Paste the array from `output_for_script.js` into `script.js`. 
 
-3. **Load the Web Page**:
+3. **Load the Page**:
     - Open `index.html` in your web browser. The web page will automatically display a randomly selected text block from `script.js` each time you reload or refresh the page.
 
 ![How this tool looks in a web browser.](https://i.imgur.com/dejdUTc.gif)
-
-## User Interaction
-
-- There are no additional user interactions required. The web page automatically displays a random text block on load.
 
 ## Notes
 
