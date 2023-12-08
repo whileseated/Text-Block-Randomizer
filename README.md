@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project creates a simple web page that automatically displays a randomly selected text block upon each reload or refresh. It combines HTML, JavaScript, and Python to achieve this functionality.
+Create a simple page that automatically displays a randomly selected text block upon each reload or refresh. 
 
 ## File Structure
 
@@ -14,12 +14,6 @@ This project creates a simple web page that automatically displays a randomly se
 
 ## Setup and Execution
 
-### Prerequisites
-- A web browser (e.g., Chrome, Firefox, Safari).
-- Python installed on your system (for running the Python script).
-
-### Steps
-
 1. **Prepare the Text Data**:
     - Place your desired text in `raw_text.txt`. Each line in this file will be a separate entry in the array.
     - Run the `raw_to_array.py` Python script. This script converts the contents of `raw_text.txt` into a JavaScript array and outputs it to `output_for_script.js`.
@@ -29,6 +23,8 @@ This project creates a simple web page that automatically displays a randomly se
 
 3. **Load the Web Page**:
     - Open `index.html` in your web browser. The web page will automatically display a randomly selected text block from `script.js` each time you reload or refresh the page.
+
+![How this tool looks in a web browser.](https://i.imgur.com/dejdUTc.gif)
 
 ## User Interaction
 

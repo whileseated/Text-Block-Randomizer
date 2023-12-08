@@ -1,3 +1,5 @@
+// Paste the output from output_for_script.js here, above the function
+
 const fileContent1 = [
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
